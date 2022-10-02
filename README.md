@@ -64,6 +64,8 @@
 
 <img src="https://user-images.githubusercontent.com/1023421/193435521-2be4e88c-8076-4228-b31e-2dd003a17b46.png" width="400">
 
+<a id='kickstart-1-11' />
+
 | 参照名 | 使用箇所 | 取得方法 | ステータス |
 | :--- | :--- | :--- | :--- |
 | aws_access_key_id | api / github / actions / secretes |  | 取得済 |

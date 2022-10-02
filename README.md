@@ -24,13 +24,14 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 
 ### 3. Kickstartの歩き方
 - 以下の4本の柱に別れています。興味のある分野から始めてかまいませんが、最終的には同じところにたどり着きます。
-> [kickstart-front](https://github.com/yokohama/kickstart-front)
+> [kickstart-front](https://github.com/yokohama/kickstart-front) - nextjsを使用したフロント実装を学びます
 
-> [kickstart-api](https://github.com/yokohama/kickstart-api)
+> [kickstart-api](https://github.com/yokohama/kickstart-api) - フロントとバックエンドの設計の分離を学びます
 
-> [kickstart-server](https://github.com/yokohama/kickstart-server)
+> [kickstart-server](https://github.com/yokohama/kickstart-server) - バックエンドとコンテナサービスを学びます
 
-> [kickstart-cdk](https://github.com/yokohama/kickstart-cdk)
+> [kickstart-cdk](https://github.com/yokohama/kickstart-cdk) - インフラのコード化を学びます
+
 - 各READMEを読みながら何回でも納得がいくまで無限ループして下さい。実力が付きます。
 - ドキュメント解りづらい、間違っているなどが有れば、お気軽にこちらからドンドンISSUEを発行してくだい。
 

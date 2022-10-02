@@ -7,6 +7,7 @@ assignees:
 body:
   - type: markdown
     attributes:
+      label: hoge
       value: |
         なんでもお気軽にフィードバック下さいませ。
   - type: textarea

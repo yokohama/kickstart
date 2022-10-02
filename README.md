@@ -25,8 +25,11 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 ### 3. Kickstartの歩き方
 - 以下の4本の柱に別れています。興味のある分野から始めてかまいませんが、最終的には同じところにたどり着きます。
 > [kickstart-front](https://github.com/yokohama/kickstart-front)
+
 > [kickstart-api](https://github.com/yokohama/kickstart-api)
+
 > [kickstart-server](https://github.com/yokohama/kickstart-server)
+
 > [kickstart-cdk](https://github.com/yokohama/kickstart-cdk)
 - 各READMEを読みながら何回でも納得がいくまで無限ループして下さい。実力が付きます。
 - ドキュメント解りづらい、間違っているなどが有れば、お気軽にこちらからドンドンISSUEを発行してくだい。

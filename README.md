@@ -14,7 +14,7 @@
 | aws_secret_access_key | api / github / actions / secretes |  | |
 | aws_region | api / github / actions / secretes |  | |
 
-既に、awsのaccess_key_idと、secret_access_keyを取得していて確認が出来る方は、までスキップして下さい。
+既に、awsのaccess_key_idと、secret_access_keyを取得していて確認が出来る方は、[こちら](#hoge)までスキップして下さい。
 
 ### 3. リージョンを確認して控える
 
@@ -91,6 +91,7 @@ aws-cli/2.2.16 Python/3.8.8 Linux/5.15.0-48-generic exe/x86_64.ubuntu.20 prompt/
 
 もし、ホームディレクトリに`.aws`ディレクトリが無かったり、またはconfigファイルが無かったりしたら作成をしてください。
 
+<a id="hoge" />
 ### 4. 設定ファイル（`config`）の中身を記入する。
 ```
 [default]

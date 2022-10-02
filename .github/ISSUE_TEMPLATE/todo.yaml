@@ -13,7 +13,6 @@ body:
     id: help-1
     attributes:
       label: フィードバック
-      description: hoge
       placeholder:
       value:
     validations:

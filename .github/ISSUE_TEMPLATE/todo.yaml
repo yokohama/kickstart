@@ -12,8 +12,6 @@ body:
   - type: textarea
     id: help-1
     attributes:
-      label: TODO
-      description: なんでもお気軽にフィードバック下さいませ。
       placeholder:
       value:
     validations:

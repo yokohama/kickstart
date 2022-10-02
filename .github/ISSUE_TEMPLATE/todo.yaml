@@ -1,0 +1,20 @@
+name: Help
+description: なんでもお気軽にフィードバック下さいませ。
+title: "[Help]: "
+labels: ["help wanted"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        なんでもお気軽にフィードバック下さいませ。
+  - type: textarea
+    id: help-1
+    attributes:
+      label: TODO
+      description: なんでもお気軽にフィードバック下さいませ。
+      placeholder:
+      value:
+    validations:
+      required: true

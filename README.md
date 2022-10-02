@@ -18,7 +18,7 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 - Firebase
 - Vercel
 - prism
-- openapi
+- OpenAPI
 - docker / compose
 - Rails
 - aws ( fargate / API Gateway / RDS / CDK / ECR / NLB )

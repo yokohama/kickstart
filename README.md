@@ -1,12 +1,35 @@
 # kickstart
 
 ## 目次
-1. AWSの環境を用意する
-2. asw cliを用意する
+1. 概要
+2. AWSの環境を用意する
+3. asw cliを用意する
+
+## 1. 概要
+### 1. Kickstartとは？
+Kickstartは以下の効果を発揮するためのプロジェクトです。
+1. フルスタックエンジニアを目指す方の学習プロセスを提供。
+2. プロジェクトの開始のための準備コストの軽減。毎度同じことやっているよねをコード化。
+
+### 2. どんな技術にふれることが出来るのか？
+勿論、今後も変化していきますが現状は以下の内容にふれることが出来ます。
+- nextjs
+- Firebase
+- Vercel
+- prism
+- openapi
+- docker / compose
+- Rails
+- aws ( fargate / API Gateway / RDS / CDK / ECR / NLB )
+
+### 3. Kickstartの歩き方
+- front / api / server / inflastractureと、4本の柱に別れています。
+- 各READMEを読みながら何回でも納得がいくまで無限ループして下さい。実力が付きます。
+- ドキュメント解りづらい、間違っているなどが有れば、お気軽にこちらからドンドンISSUEを発行してくだい。
 
 <a id="kickstart-1" />
 
-## 1. AWSの環境を用意する
+## 2. AWSの環境を用意する
 ### 1. AWSアカウントを持っていない方は登録を済ませて下さい。持っている方は、次の手順に進んで下さい。
 
 ### 2. 必要な情報を集める
@@ -74,7 +97,7 @@
 
 <a id="kickstart-2" />
 
-## 2. aws cliを用意する
+## 3. aws cliを用意する
 
 ### 1. 以下の公式ページを参考に使用しているOS毎にインストールをする
 [AWS CLI の最新バージョンをインストールまたは更新します。](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/getting-started-install.html)

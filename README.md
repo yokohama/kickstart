@@ -21,6 +21,7 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 - docker / compose
 - Rails
 - aws ( fargate / API Gateway / RDS / CDK / ECR / NLB )
+- 
 
 ### 3. Kickstartの歩き方
 - 以下の4本の柱に別れています。興味のある分野から始めてかまいませんが、最終的には同じところにたどり着きます。

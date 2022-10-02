@@ -4,6 +4,8 @@
 1. AWSの環境を用意する
 2. asw cliを用意する
 
+<a id="kickstart-1" />
+
 ## 1. AWSの環境を用意する
 ### 1. AWSアカウントを持っていない方は登録を済ませて下さい。持っている方は、次の手順に進んで下さい。
 
@@ -14,7 +16,7 @@
 | aws_secret_access_key | api / github / actions / secretes |  | |
 | aws_region | api / github / actions / secretes |  | |
 
-既に、awsのaccess_key_idと、secret_access_keyを取得していて確認が出来る方は、[こちら](#hoge)までスキップして下さい。
+既に、awsのaccess_key_idと、secret_access_keyを取得していて確認が出来る方は、[こちら](#kickstart-2)までスキップして下さい。
 
 ### 3. リージョンを確認して控える
 
@@ -68,6 +70,8 @@
 | aws_secret_access_key | api / github / actions / secretes |  | 取得済 |
 | aws_region | api / github / actions / secretes |  | 取得済 |
 
+<a id="kickstart-2" />
+
 ## 2. aws cliを用意する
 
 ### 1. 以下の公式ページを参考に使用しているOS毎にインストールをする
@@ -91,7 +95,6 @@ aws-cli/2.2.16 Python/3.8.8 Linux/5.15.0-48-generic exe/x86_64.ubuntu.20 prompt/
 
 もし、ホームディレクトリに`.aws`ディレクトリが無かったり、またはconfigファイルが無かったりしたら作成をしてください。
 
-<a id="hoge" />
 ### 4. 設定ファイル（`config`）の中身を記入する。
 ```
 [default]

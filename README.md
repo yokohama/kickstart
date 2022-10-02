@@ -35,7 +35,7 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 > [kickstart-cdk](https://github.com/yokohama/kickstart-cdk) - インフラのコード化を学びます
 
 - 各READMEを読みながら何回でも納得がいくまで無限ループして下さい。実力が付きます。
-- ドキュメント解りづらい、間違っているなどが有れば、お気軽にこちらからドンドンISSUEを発行してくだい。
+- ドキュメント解りづらい、間違っているなどが有れば、お気軽に[こちら](https://github.com/yokohama/kickstart/issues/new?assignees=octocat&labels=help+wanted&template=todo.yaml&title=%5BHelp%5D%3A+)からドンドンISSUEを発行してくだい。
 
 <a id="kickstart-1" />
 

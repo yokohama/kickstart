@@ -1,4 +1,4 @@
-# kickstart-front
+# kickstart
 
 ## 目次
 1. AWSの環境を用意する

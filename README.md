@@ -21,6 +21,7 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 - OpenAPI
 - docker / compose
 - Rails
+- PostgreSQL
 - aws ( fargate / API Gateway / RDS / CDK / ECR / NLB )
 - github actions ( CI / CD )
 

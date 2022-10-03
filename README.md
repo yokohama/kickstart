@@ -42,6 +42,7 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 - [OpenApi API Gateway extensions](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-swagger-extensions.html)
 - [CDK V2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
 - [Prism](https://meta.stoplight.io/docs/prism/674b27b261c3c-overview)
+- [GitHub Actions](https://docs.github.com/ja/actions)
 
 <a id="kickstart-1" />
 

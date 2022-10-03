@@ -22,7 +22,7 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 - docker / compose
 - Rails
 - PostgreSQL
-- aws ( fargate / API Gateway / RDS / CDK / ECR / NLB )
+- aws ( API Gateway / forgate / NLB / RDS / CDK / ECR / cli )
 - github actions ( CI / CD )
 
 ### 3. Kickstartの歩き方

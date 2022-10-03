@@ -38,10 +38,10 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 - ドキュメント解りづらい、間違っているなどが有れば、お気軽に[こちら](https://github.com/yokohama/kickstart/issues/new?assignees=octocat&labels=help+wanted&template=todo.yaml&title=%5BHelp%5D%3A+)からドンドンISSUEを発行してくだい。
 
 ### 4. 参考になる文章
-[OpenAPI](https://swagger.io/specification/)
-[OpenApi API Gateway extensions](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-swagger-extensions.html)
-[CDK V2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
-[Prism](https://meta.stoplight.io/docs/prism/674b27b261c3c-overview)
+- [OpenAPI](https://swagger.io/specification/)
+- [OpenApi API Gateway extensions](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-swagger-extensions.html)
+- [CDK V2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
+- [Prism](https://meta.stoplight.io/docs/prism/674b27b261c3c-overview)
 
 <a id="kickstart-1" />
 

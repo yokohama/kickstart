@@ -44,6 +44,7 @@ Kickstartは以下の効果を発揮するためのプロジェクトです。
 - [CDK V2 API Reference](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html)
 - [Prism](https://meta.stoplight.io/docs/prism/674b27b261c3c-overview)
 - [GitHub Actions](https://docs.github.com/ja/actions)
+- [Railsガイド](https://railsguides.jp/)
 
 <a id="kickstart-1" />
 

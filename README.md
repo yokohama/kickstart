@@ -4,6 +4,7 @@
 1. 概要（Kickstartとは？）
 2. AWSの環境を用意する
 3. asw cliを用意する
+4. 得意なジャンルからチュートリアルを進めサービス構築をする
 
 ## 1. 概要（Kickstartとは？）
 ### 1. Kickstartとは？
@@ -159,4 +160,11 @@ $ aws sts get-caller-identity
 }
 ```
 
+4. 得意な（興味がある）ジャンルからチュートリアルを進めサービス構築をする
+- [kickstart-front](https://github.com/yokohama/kickstart-front) - nextjsを使用したフロント実装を学びます
 
+- [kickstart-api](https://github.com/yokohama/kickstart-api) - フロントとサーバーサイドの設計の分離及びJWTを使用した認証を学びます
+
+- [kickstart-server](https://github.com/yokohama/kickstart-server) - サーバーサイドとコンテナサービスを学びます
+
+- [kickstart-cdk](https://github.com/yokohama/kickstart-cdk) - インフラのコード化を学びます

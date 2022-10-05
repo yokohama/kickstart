@@ -160,7 +160,7 @@ $ aws sts get-caller-identity
 }
 ```
 
-4. 得意な（興味がある）ジャンルからチュートリアルを進めサービス構築をする
+## 4. 得意な（興味がある）ジャンルからチュートリアルを進めサービス構築をする
 - [kickstart-front](https://github.com/yokohama/kickstart-front) - nextjsを使用したフロント実装を学びます
 
 - [kickstart-api](https://github.com/yokohama/kickstart-api) - フロントとサーバーサイドの設計の分離及びJWTを使用した認証を学びます
